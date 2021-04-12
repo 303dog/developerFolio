@@ -92,7 +92,7 @@ const educationInfo = {
 
     {
       schoolName: "Flatiron School",
-      logo: require("./assets/images/nextuLogo.webp"),
+      logo: require("./assets/images/nextuLogo.webp" ),
       subHeader: "Software Engineering Program",
       duration: "April 2020 - February 2021",
       desc:
